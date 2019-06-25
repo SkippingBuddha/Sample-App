@@ -2,10 +2,13 @@ my progress
 
 25.06
 New commands:
+q-  to exit log
 rails test 
 rails generate
 rails destroy
 touch (for example:  app/views/static_pages/about.html.erb)- update timestamp or create new file if doesn't exist)
+mv file new name (for example: mv app/views/layouts/application.html.erb layout_file) to change file names
+assert_select- tests for the presence of a particular HTML tag
 
 New concepts: 
 TDD- development where the failing test should be written before the code
