@@ -1,0 +1,35 @@
+[33mcommit c1f8f2eeb344900401ee70def7aaa8e0cd13a41e[m[33m ([m[1;36mHEAD -> [m[1;32mstatic-pages[m[33m, [m[1;31morigin/static-pages[m[33m)[m
+Author: SkippingBuddha <zoewilson17@yahoo.com>
+Date:   Mon Jun 24 16:07:02 2019 +0000
+
+    Add a Static Pages controller
+
+[33mcommit ef2734b34b1e8c3b2549401745814401abf47749[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: SkippingBuddha <zoewilson17@yahoo.com>
+Date:   Fri Jun 7 16:07:38 2019 +0000
+
+    add progress page
+
+[33mcommit a315ce9a2cd151da083d40297695dc38ded585a3[m
+Author: SkippingBuddha <zoewilson17@yahoo.com>
+Date:   Fri Jun 7 15:29:33 2019 +0000
+
+    initialize repository
+
+[33mcommit 94e131ace8378ddbf651a83cf2da49895a583d41[m
+Author: SkippingBuddha <zoewilson17@yahoo.com>
+Date:   Fri Apr 12 15:51:43 2019 +0000
+
+    add hello
+
+[33mcommit 81384d3194dcb224bb6d4d462ec6e5cbb55eec7a[m
+Author: SkippingBuddha <zoewilson17@yahoo.com>
+Date:   Fri Apr 12 15:48:00 2019 +0000
+
+    improve the README
+
+[33mcommit 89490eb790d1721adec3b18a2d8475ec3981c93d[m
+Author: SkippingBuddha <zoewilson17@yahoo.com>
+Date:   Fri Apr 12 15:25:12 2019 +0000
+
+    initialize repo
