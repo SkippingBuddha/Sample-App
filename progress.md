@@ -1,6 +1,7 @@
 my progress
 
 25.06
+3.35
 New commands:
 q-  to exit log
 rails test 
